@@ -1,11 +1,11 @@
-import { eraseCookie, getCookie } from '@/utils/cookie';
+import { eraseCookie, getCookie } from '@utils/cookie';
 // import { lazyImport } from '@/utils/lazyImport';
 import { useNavigate } from 'react-router';
 import { useEffect } from 'react';
-import NotFoundPage from '@/components/404';
-import { DashboardRoutes } from '@/pages/dashboard';
-import App from '@/App';
-import Forbidden from '@/components/Forbidden';
+import NotFoundPage from '@components/404';
+import { DashboardRoutes } from '@pages/dashboard';
+import App from '../App';
+import Forbidden from '@components/Forbidden';
 // const { PenatausahaanRoutes } = lazyImport(() => import('@/pages/penatausahaan/routes'), 'PenatausahaanRoutes');
 // const { UserRoutes } = lazyImport(() => import('@/pages/pengaturan/routes/user/routes'), 'UserRoutes');
 // const { AppSettingRoutes } = lazyImport(() => import('@/pages/pengaturan'), 'AppSettingRoutes');

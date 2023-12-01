@@ -1,8 +1,6 @@
-import React, { useEffect } from "react";
-import Icon from "@/components/ui/Icon";
+import React from "react";
 
-import useDarkMode from "@/hooks/useDarkMode";
-import { FiColumns, FiLayout, FiMoon, FiSun } from "react-icons/fi";
+import { FiColumns, FiLayout } from "react-icons/fi";
 import useRtl from "@/hooks/useRtl";
 
 const SwitchLeftRight: React.FC = () => {

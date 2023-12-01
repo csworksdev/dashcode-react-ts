@@ -13,7 +13,7 @@ const AppRoutes = () => {
     const location = useLocation()
 
     useEffect(() => {
-        if (location.pathname !== '/' && location.pathname !== '/login' && location.pathname !== '/logout' && location.pathname !== '/dasar-hukum' && location.pathname !== '/dokumentasi' && location.pathname !== '/faq') {
+        if (location.pathname !== '/' && location.pathname !== '/login' && location.pathname !== '/logout' && location.pathname !== '/faq') {
             if (token == null || token === '') {
                 navigate('/');
             }
