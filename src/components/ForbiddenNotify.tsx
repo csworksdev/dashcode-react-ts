@@ -1,7 +1,7 @@
 import ForbiddenAnimation from '@/assets/animation/animation_ln99euag.json';
 import VideoPlayer from './partials/widget/VideoPlayer';
-import {useEffect} from 'react';
-import { reportToDiscord } from '@/utils/Discord';
+import { useEffect } from 'react';
+// import { reportToDiscord } from '@/utils/Discord';
 
 type Props = {
     error: any
@@ -22,7 +22,7 @@ const ForbiddenNotify = (props: Props) => {
             const data = {
                 rute: newPathname
             }
-            reportToDiscord("Forbidden", data)
+            // reportToDiscord("Forbidden", data)
         }
     }, [newPathname])
 

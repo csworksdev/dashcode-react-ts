@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react';
 import MainCard from "@/pages/dashboard/components/MainCard";
 import useBreadcumb from '@/hooks/useBreadcumb';
-import { getDashboardStatistic } from '@/api/dashboard';
+// import { getDashboardStatistic } from '@/api/dashboard';
 import { FiAperture, FiDivideCircle, FiPocket, FiShoppingBag } from 'react-icons/fi';
 import { DashboardResponseType } from '../types'
 import useProfile from '@/hooks/useProfile';
-import { reportToDiscord } from '@/utils/Discord';
+// import { reportToDiscord } from '@/utils/Discord';
 import PanduanCallToAction from '../components/PanduanCallToAction';
 import KebijakanSpd from '../components/KebijakanSpd';
 import Jadwal from '../components/Jadwal';
@@ -73,7 +73,7 @@ const Dashboard = () => {
             }
         ]
         setBreadcumb(breadcumb)
-        reportToDiscord("Dashboard", {})
+        // reportToDiscord("Dashboard", {})
     }, [])
 
     useEffect(() => {
@@ -84,16 +84,16 @@ const Dashboard = () => {
         setIsLoading(true)
         const statistics: DashboardStatisticType[] = StatisticResponse
 
-        getDashboardStatistic().then(function (res: any) {
-            const response: DashboardResponseType = res.data
-            statistics[0].count = response.pendapatan
-            statistics[1].count = response.belanja
-            statistics[2].count = response.penerimaan
-            statistics[3].count = response.pengeluaran
-            setStatisticResponse(statistics)
-        }).finally(function () {
-            setIsLoading(false)
-        })
+        // getDashboardStatistic().then(function (res: any) {
+        //     const response: DashboardResponseType = res.data
+        //     statistics[0].count = response.pendapatan
+        //     statistics[1].count = response.belanja
+        //     statistics[2].count = response.penerimaan
+        //     statistics[3].count = response.pengeluaran
+        //     setStatisticResponse(statistics)
+        // }).finally(function () {
+        //     setIsLoading(false)
+        // })
     };
 
     const useProvinsiLavel = [0, 6, 9, 11, 12, 16]
@@ -101,7 +101,7 @@ const Dashboard = () => {
 
     return (
         <div>
-            <div className="space-y-5">
+            {/* <div className="space-y-5">
                 <div className="grid grid-cols-12 gap-5">
                     <div className="lg:col-span-12 col-span-12 space-y-5 mb-5">
                         <p className='dsahboard-main-text'>Ringkasan APBD {(foundItem ? ToTitleCase(Profile?.nama_daerah || '-') : ToTitleCase(Profile?.nama_skpd || '-'))}</p>
@@ -141,9 +141,10 @@ const Dashboard = () => {
                     <div className="lg:col-span-12 col-span-12 space-y-5 mb-5">
                         <PanduanCallToAction />
                     </div>
-                    
+
                 </div>
-            </div>
+            </div> */}
+            <div>test</div>
         </div>
     )
 };

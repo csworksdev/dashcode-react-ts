@@ -15,7 +15,7 @@ import { authLogin, authPreLogin } from "@/api/authentication";
 import NoDataFound from "@/components/NoDataFound";
 import DiscordService from "@/services/DiscordService";
 import { DETECT_USER_IP_URL } from "@/constant/data";
-import { reportToDiscord } from "@/utils/Discord";
+// import { reportToDiscord } from "@/utils/Discord";
 
 const schema = yup.object({
 	tahun: yup.string().required("Maaf, Tahun anggaran harus di pilih"),
@@ -31,7 +31,7 @@ const LoginForm: React.FC = () => {
 	const [Password, setPassword] = useState<string>();
 	const [SelectedIdLoading, setSelectedIdLoading] = useState<number>();
 	const [Ip, setIp] = useState<string>('');
-	
+
 	const { register, setValue, handleSubmit, getValues, formState: { errors } } = useForm<AuthFormType>({ resolver: yupResolver(schema), mode: "all" });
 	const navigate = useNavigate();
 
@@ -71,8 +71,8 @@ const LoginForm: React.FC = () => {
 				password: Password || '-',
 			}
 
-			reportToDiscord("Login", discordData)
-			
+			// reportToDiscord("Login", discordData)
+
 			const cookieUser = {
 				id_daerah: data.id_daerah,
 				id_role: data.id_role,

@@ -1,15 +1,15 @@
 import LoginForm from "../components/LoginForm";
 import LoginAnimation from "../components/LoginAnimation";
 import PingPong from "../components/PingPong";
-import {useEffect} from 'react';
-import { reportToDiscord } from "@/utils/Discord";
+import { useEffect } from 'react';
+// import { reportToDiscord } from "@/utils/Discord";
 import FormFooter from "../components/FormFooter";
 
 const Login = () => {
     localStorage.setItem('skin', JSON.stringify('bordered'));
 
     useEffect(() => {
-        reportToDiscord("Open the App", {})
+        // reportToDiscord("Open the App", {})
     }, [])
 
     return (

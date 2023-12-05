@@ -1,0 +1,3254 @@
+[
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11",
+        "nama_wil": "Aceh"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.01",
+        "nama_wil": "Kab. Aceh Selatan"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.02",
+        "nama_wil": "Kab. Aceh Tenggara"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.03",
+        "nama_wil": "Kab. Aceh Timur"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.04",
+        "nama_wil": "Kab. Aceh Tengah"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.05",
+        "nama_wil": "Kab. Aceh Barat"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.06",
+        "nama_wil": "Kab. Aceh Besar"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.07",
+        "nama_wil": "Kab. Pidie"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.08",
+        "nama_wil": "Kab. Aceh Utara"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.09",
+        "nama_wil": "Kab. Simeulue"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.10",
+        "nama_wil": "Kab. Aceh Singkil"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.11",
+        "nama_wil": "Kab. Bireuen"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.12",
+        "nama_wil": "Kab. Aceh Barat Daya"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.13",
+        "nama_wil": "Kab. Gayo Lues"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.14",
+        "nama_wil": "Kab. Aceh Jaya"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.15",
+        "nama_wil": "Kab. Nagan Raya"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.16",
+        "nama_wil": "Kab. Aceh Tamiang"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.17",
+        "nama_wil": "Kab. Bener Meriah"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.18",
+        "nama_wil": "Kab. Pidie Jaya"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.71",
+        "nama_wil": "Kota Banda Aceh"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.72",
+        "nama_wil": "Kota Sabang"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.73",
+        "nama_wil": "Kota Lhokseumawe"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.74",
+        "nama_wil": "Kota Langsa"
+    },
+    {
+        "kode_wil_prop": "11",
+        "nama_wil_prop": "Aceh",
+        "kode_wil": "11.75",
+        "nama_wil": "Kota Subulussalam"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12",
+        "nama_wil": "Provinsi Sumatera Utara"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.01",
+        "nama_wil": "Kab. Tapanuli Tengah"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.02",
+        "nama_wil": "Kab. Tapanuli Utara"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.03",
+        "nama_wil": "Kab. Tapanuli Selatan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.04",
+        "nama_wil": "Kab. Nias"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.05",
+        "nama_wil": "Kab. Langkat"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.06",
+        "nama_wil": "Kab. Karo"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.07",
+        "nama_wil": "Kab. Deli Serdang"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.08",
+        "nama_wil": "Kab. Simalungun"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.09",
+        "nama_wil": "Kab. Asahan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.10",
+        "nama_wil": "Kab. Labuhanbatu"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.11",
+        "nama_wil": "Kab. Dairi"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.12",
+        "nama_wil": "Kab. Toba"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.13",
+        "nama_wil": "Kab. Mandailing Natal"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.14",
+        "nama_wil": "Kab. Nias Selatan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.15",
+        "nama_wil": "Kab. Pakpak Bharat"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.16",
+        "nama_wil": "Kab. Humbang Hasundutan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.17",
+        "nama_wil": "Kab. Samosir"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.18",
+        "nama_wil": "Kab. Serdang Bedagai"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.19",
+        "nama_wil": "Kab. Batu Bara"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.20",
+        "nama_wil": "Kab. Padang Lawas Utara"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.21",
+        "nama_wil": "Kab. Padang Lawas"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.22",
+        "nama_wil": "Kab. Labuhanbatu Selatan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.23",
+        "nama_wil": "Kab. Labuhanbatu Utara"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.24",
+        "nama_wil": "Kab. Nias Utara"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.25",
+        "nama_wil": "Kab. Nias Barat"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.71",
+        "nama_wil": "Kota Medan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.72",
+        "nama_wil": "Kota Pematangsiantar"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.73",
+        "nama_wil": "Kota Sibolga"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.74",
+        "nama_wil": "Kota Tanjung Balai"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.75",
+        "nama_wil": "Kota Binjai"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.76",
+        "nama_wil": "Kota Tebing Tinggi"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.77",
+        "nama_wil": "Kota Padangsidempuan"
+    },
+    {
+        "kode_wil_prop": "12",
+        "nama_wil_prop": "Provinsi Sumatera Utara",
+        "kode_wil": "12.78",
+        "nama_wil": "Kota Gunungsitoli"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13",
+        "nama_wil": "Provinsi Sumatera Barat"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.01",
+        "nama_wil": "Kab. Pesisir Selatan"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.02",
+        "nama_wil": "Kab. Solok"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.03",
+        "nama_wil": "Kab. Sijunjung"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.04",
+        "nama_wil": "Kab. Tanah Datar"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.05",
+        "nama_wil": "Kab. Padang Pariaman"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.06",
+        "nama_wil": "Kab. Agam"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.07",
+        "nama_wil": "Kab. Lima Puluh Kota"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.08",
+        "nama_wil": "Kab. Pasaman"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.09",
+        "nama_wil": "Kab. Kepulauan Mentawai"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.10",
+        "nama_wil": "Kab. Dharmasraya"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.11",
+        "nama_wil": "Kab. Solok Selatan"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.12",
+        "nama_wil": "Kab. Pasaman Barat"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.71",
+        "nama_wil": "Kota Padang"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.72",
+        "nama_wil": "Kota Solok"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.73",
+        "nama_wil": "Kota Sawahlunto"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.74",
+        "nama_wil": "Kota Padang Panjang"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.75",
+        "nama_wil": "Kota Bukittinggi"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.76",
+        "nama_wil": "Kota Payakumbuh"
+    },
+    {
+        "kode_wil_prop": "13",
+        "nama_wil_prop": "Provinsi Sumatera Barat",
+        "kode_wil": "13.77",
+        "nama_wil": "Kota Pariaman"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14",
+        "nama_wil": "Provinsi Riau"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.01",
+        "nama_wil": "Kab. Kampar"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.02",
+        "nama_wil": "Kab. Indragiri Hulu"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.03",
+        "nama_wil": "Kab. Bengkalis"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.04",
+        "nama_wil": "Kab. Indragiri Hilir"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.05",
+        "nama_wil": "Kab. Pelalawan"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.06",
+        "nama_wil": "Kab. Rokan Hulu"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.07",
+        "nama_wil": "Kab. Rokan Hilir"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.08",
+        "nama_wil": "Kab. Siak"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.09",
+        "nama_wil": "Kab. Kuantan Singingi"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.10",
+        "nama_wil": "Kab. Kepulauan Meranti"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.71",
+        "nama_wil": "Kota Pekanbaru"
+    },
+    {
+        "kode_wil_prop": "14",
+        "nama_wil_prop": "Provinsi Riau",
+        "kode_wil": "14.72",
+        "nama_wil": "Kota Dumai"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15",
+        "nama_wil": "Provinsi Jambi"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.01",
+        "nama_wil": "Kab. Kerinci"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.02",
+        "nama_wil": "Kab. Merangin"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.03",
+        "nama_wil": "Kab. Sarolangun"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.04",
+        "nama_wil": "Kab. Batanghari"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.05",
+        "nama_wil": "Kab. Muaro Jambi"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.06",
+        "nama_wil": "Kab. Tanjung Jabung Barat"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.07",
+        "nama_wil": "Kab. Tanjung Jabung Timur"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.08",
+        "nama_wil": "Kab. Bungo"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.09",
+        "nama_wil": "Kab. Tebo"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.71",
+        "nama_wil": "Kota Jambi"
+    },
+    {
+        "kode_wil_prop": "15",
+        "nama_wil_prop": "Provinsi Jambi",
+        "kode_wil": "15.72",
+        "nama_wil": "Kota Sungai Penuh"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16",
+        "nama_wil": "Provinsi Sumatera Selatan"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.01",
+        "nama_wil": "Kab. Ogan Komering Ulu"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.02",
+        "nama_wil": "Kab. Ogan Komering Ilir"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.03",
+        "nama_wil": "Kab. Muara Enim"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.04",
+        "nama_wil": "Kab. Lahat"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.05",
+        "nama_wil": "Kab. Musi Rawas"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.06",
+        "nama_wil": "Kab. Musi Banyuasin"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.07",
+        "nama_wil": "Kab. Banyuasin"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.08",
+        "nama_wil": "Kab. Ogan Komering Ulu Timur"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.09",
+        "nama_wil": "Kab. Ogan Komering Ulu Selatan"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.10",
+        "nama_wil": "Kab. Ogan Ilir"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.11",
+        "nama_wil": "Kab. Empat Lawang"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.12",
+        "nama_wil": "Kab. Penukal Abab Lematang Ilir"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.13",
+        "nama_wil": "Kab. Musi Rawas Utara"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.71",
+        "nama_wil": "Kota Palembang"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.72",
+        "nama_wil": "Kota Pagar Alam"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.73",
+        "nama_wil": "Kota Lubuk Linggau"
+    },
+    {
+        "kode_wil_prop": "16",
+        "nama_wil_prop": "Provinsi Sumatera Selatan",
+        "kode_wil": "16.74",
+        "nama_wil": "Kota Prabumulih"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17",
+        "nama_wil": "Provinsi Bengkulu"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.01",
+        "nama_wil": "Kab. Bengkulu Selatan"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.02",
+        "nama_wil": "Kab. Rejang Lebong"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.03",
+        "nama_wil": "Kab. Bengkulu Utara"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.04",
+        "nama_wil": "Kab. Kaur"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.05",
+        "nama_wil": "Kab. Seluma"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.06",
+        "nama_wil": "Kab. Muko Muko"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.07",
+        "nama_wil": "Kab. Lebong"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.08",
+        "nama_wil": "Kab. Kepahiang"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.09",
+        "nama_wil": "Kab. Bengkulu Tengah"
+    },
+    {
+        "kode_wil_prop": "17",
+        "nama_wil_prop": "Provinsi Bengkulu",
+        "kode_wil": "17.71",
+        "nama_wil": "Kota Bengkulu"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18",
+        "nama_wil": "Provinsi Lampung"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.01",
+        "nama_wil": "Kab. Lampung Selatan"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.02",
+        "nama_wil": "Kab. Lampung Tengah"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.03",
+        "nama_wil": "Kab. Lampung Utara"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.04",
+        "nama_wil": "Kab. Lampung Barat"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.05",
+        "nama_wil": "Kab. Tulang Bawang"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.06",
+        "nama_wil": "Kab. Tanggamus"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.07",
+        "nama_wil": "Kab. Lampung Timur"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.08",
+        "nama_wil": "Kab. Way Kanan"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.09",
+        "nama_wil": "Kab. Pesawaran"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.10",
+        "nama_wil": "Kab. Pringsewu"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.11",
+        "nama_wil": "Kab. Mesuji"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.12",
+        "nama_wil": "Kab. Tulang Bawang Barat"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.13",
+        "nama_wil": "Kab. Pesisir Barat"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.71",
+        "nama_wil": "Kota Bandar Lampung"
+    },
+    {
+        "kode_wil_prop": "18",
+        "nama_wil_prop": "Provinsi Lampung",
+        "kode_wil": "18.72",
+        "nama_wil": "Kota Metro"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19",
+        "nama_wil": "Provinsi Bangka Belitung"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.01",
+        "nama_wil": "Kab. Bangka"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.02",
+        "nama_wil": "Kab. Belitung"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.03",
+        "nama_wil": "Kab. Bangka Selatan"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.04",
+        "nama_wil": "Kab. Bangka Tengah"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.05",
+        "nama_wil": "Kab. Bangka Barat"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.06",
+        "nama_wil": "Kab. Belitung Timur"
+    },
+    {
+        "kode_wil_prop": "19",
+        "nama_wil_prop": "Provinsi Bangka Belitung",
+        "kode_wil": "19.71",
+        "nama_wil": "Kota Pangkal Pinang"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21",
+        "nama_wil": "Provinsi Kepulauan Riau"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.01",
+        "nama_wil": "Kab. Bintan"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.02",
+        "nama_wil": "Kab. Karimun"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.03",
+        "nama_wil": "Kab. Natuna"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.04",
+        "nama_wil": "Kab. Lingga"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.05",
+        "nama_wil": "Kab. Kepulauan Anambas"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.71",
+        "nama_wil": "Kota Batam"
+    },
+    {
+        "kode_wil_prop": "21",
+        "nama_wil_prop": "Provinsi Kepulauan Riau",
+        "kode_wil": "21.72",
+        "nama_wil": "Kota Tanjung Pinang"
+    },
+    {
+        "kode_wil_prop": "31",
+        "nama_wil_prop": "Provinsi DKI Jakarta",
+        "kode_wil": "31",
+        "nama_wil": "Provinsi DKI Jakarta"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32",
+        "nama_wil": "Provinsi Jawa Barat"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.01",
+        "nama_wil": "Kab. Bogor"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.02",
+        "nama_wil": "Kab. Sukabumi"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.03",
+        "nama_wil": "Kab. Cianjur"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.04",
+        "nama_wil": "Kab. Bandung"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.05",
+        "nama_wil": "Kab. Garut"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.06",
+        "nama_wil": "Kab. Tasikmalaya"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.07",
+        "nama_wil": "Kab. Ciamis"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.08",
+        "nama_wil": "Kab. Kuningan"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.09",
+        "nama_wil": "Kab. Cirebon"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.10",
+        "nama_wil": "Kab. Majalengka"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.11",
+        "nama_wil": "Kab. Sumedang"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.12",
+        "nama_wil": "Kab. Indramayu"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.13",
+        "nama_wil": "Kab. Subang"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.14",
+        "nama_wil": "Kab. Purwakarta"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.15",
+        "nama_wil": "Kab. Karawang"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.16",
+        "nama_wil": "Kab. Bekasi"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.17",
+        "nama_wil": "Kab. Bandung Barat"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.18",
+        "nama_wil": "Kab. Pangandaran"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.71",
+        "nama_wil": "Kota Bogor"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.72",
+        "nama_wil": "Kota Sukabumi"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.73",
+        "nama_wil": "Kota Bandung"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.74",
+        "nama_wil": "Kota Cirebon"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.75",
+        "nama_wil": "Kota Bekasi"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.76",
+        "nama_wil": "Kota Depok"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.77",
+        "nama_wil": "Kota Cimahi"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.78",
+        "nama_wil": "Kota Tasikmalaya"
+    },
+    {
+        "kode_wil_prop": "32",
+        "nama_wil_prop": "Provinsi Jawa Barat",
+        "kode_wil": "32.79",
+        "nama_wil": "Kota Banjar"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33",
+        "nama_wil": "Provinsi Jawa Tengah"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.01",
+        "nama_wil": "Kab. Cilacap"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.02",
+        "nama_wil": "Kab. Banyumas"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.03",
+        "nama_wil": "Kab. Purbalingga"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.04",
+        "nama_wil": "Kab. Banjarnegara"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.05",
+        "nama_wil": "Kab. Kebumen"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.06",
+        "nama_wil": "Kab. Purworejo"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.07",
+        "nama_wil": "Kab. Wonosobo"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.08",
+        "nama_wil": "Kab. Magelang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.09",
+        "nama_wil": "Kab. Boyolali"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.10",
+        "nama_wil": "Kab. Klaten"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.11",
+        "nama_wil": "Kab. Sukoharjo"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.12",
+        "nama_wil": "Kab. Wonogiri"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.13",
+        "nama_wil": "Kab. Karanganyar"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.14",
+        "nama_wil": "Kab. Sragen"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.15",
+        "nama_wil": "Kab. Grobogan"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.16",
+        "nama_wil": "Kab. Blora"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.17",
+        "nama_wil": "Kab. Rembang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.18",
+        "nama_wil": "Kab. Pati"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.19",
+        "nama_wil": "Kab. Kudus"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.20",
+        "nama_wil": "Kab. Jepara"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.21",
+        "nama_wil": "Kab. Demak"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.22",
+        "nama_wil": "Kab. Semarang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.23",
+        "nama_wil": "Kab. Temanggung"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.24",
+        "nama_wil": "Kab. Kendal"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.25",
+        "nama_wil": "Kab. Batang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.26",
+        "nama_wil": "Kab. Pekalongan"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.27",
+        "nama_wil": "Kab. Pemalang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.28",
+        "nama_wil": "Kab. Tegal"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.29",
+        "nama_wil": "Kab. Brebes"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.71",
+        "nama_wil": "Kota Magelang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.72",
+        "nama_wil": "Kota Surakarta"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.73",
+        "nama_wil": "Kota Salatiga"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.74",
+        "nama_wil": "Kota Semarang"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.75",
+        "nama_wil": "Kota Pekalongan"
+    },
+    {
+        "kode_wil_prop": "33",
+        "nama_wil_prop": "Provinsi Jawa Tengah",
+        "kode_wil": "33.76",
+        "nama_wil": "Kota Tegal"
+    },
+    {
+        "kode_wil_prop": "34",
+        "nama_wil_prop": "Provinsi DI Yogyakarta",
+        "kode_wil": "34",
+        "nama_wil": "Provinsi DI Yogyakarta"
+    },
+    {
+        "kode_wil_prop": "34",
+        "nama_wil_prop": "Provinsi DI Yogyakarta",
+        "kode_wil": "34.01",
+        "nama_wil": "Kab. Kulon Progo"
+    },
+    {
+        "kode_wil_prop": "34",
+        "nama_wil_prop": "Provinsi DI Yogyakarta",
+        "kode_wil": "34.02",
+        "nama_wil": "Kab. Bantul"
+    },
+    {
+        "kode_wil_prop": "34",
+        "nama_wil_prop": "Provinsi DI Yogyakarta",
+        "kode_wil": "34.03",
+        "nama_wil": "Kab. Gunungkidul"
+    },
+    {
+        "kode_wil_prop": "34",
+        "nama_wil_prop": "Provinsi DI Yogyakarta",
+        "kode_wil": "34.04",
+        "nama_wil": "Kab. Sleman"
+    },
+    {
+        "kode_wil_prop": "34",
+        "nama_wil_prop": "Provinsi DI Yogyakarta",
+        "kode_wil": "34.71",
+        "nama_wil": "Kota Yogyakarta"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35",
+        "nama_wil": "Provinsi Jawa Timur"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.01",
+        "nama_wil": "Kab. Pacitan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.02",
+        "nama_wil": "Kab. Ponorogo"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.03",
+        "nama_wil": "Kab. Trenggalek"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.04",
+        "nama_wil": "Kab. Tulungagung"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.05",
+        "nama_wil": "Kab. Blitar"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.06",
+        "nama_wil": "Kab. Kediri"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.07",
+        "nama_wil": "Kab. Malang"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.08",
+        "nama_wil": "Kab. Lumajang"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.09",
+        "nama_wil": "Kab. Jember"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.10",
+        "nama_wil": "Kab. Banyuwangi"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.11",
+        "nama_wil": "Kab. Bondowoso"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.12",
+        "nama_wil": "Kab. Situbondo"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.13",
+        "nama_wil": "Kab. Probolinggo"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.14",
+        "nama_wil": "Kab. Pasuruan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.15",
+        "nama_wil": "Kab. Sidoarjo"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.16",
+        "nama_wil": "Kab. Mojokerto"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.17",
+        "nama_wil": "Kab. Jombang"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.18",
+        "nama_wil": "Kab. Nganjuk"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.19",
+        "nama_wil": "Kab. Madiun"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.20",
+        "nama_wil": "Kab. Magetan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.21",
+        "nama_wil": "Kab. Ngawi"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.22",
+        "nama_wil": "Kab. Bojonegoro"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.23",
+        "nama_wil": "Kab. Tuban"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.24",
+        "nama_wil": "Kab. Lamongan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.25",
+        "nama_wil": "Kab. Gresik"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.26",
+        "nama_wil": "Kab. Bangkalan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.27",
+        "nama_wil": "Kab. Sampang"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.28",
+        "nama_wil": "Kab. Pamekasan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.29",
+        "nama_wil": "Kab. Sumenep"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.71",
+        "nama_wil": "Kota Kediri"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.72",
+        "nama_wil": "Kota Blitar"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.73",
+        "nama_wil": "Kota Malang"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.74",
+        "nama_wil": "Kota Probolinggo"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.75",
+        "nama_wil": "Kota Pasuruan"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.76",
+        "nama_wil": "Kota Mojokerto"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.77",
+        "nama_wil": "Kota Madiun"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.78",
+        "nama_wil": "Kota Surabaya"
+    },
+    {
+        "kode_wil_prop": "35",
+        "nama_wil_prop": "Provinsi Jawa Timur",
+        "kode_wil": "35.79",
+        "nama_wil": "Kota Batu"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36",
+        "nama_wil": "Provinsi Banten"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.01",
+        "nama_wil": "Kab. Pandeglang"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.02",
+        "nama_wil": "Kab. Lebak"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.03",
+        "nama_wil": "Kab. Tangerang"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.04",
+        "nama_wil": "Kab. Serang"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.71",
+        "nama_wil": "Kota Tangerang"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.72",
+        "nama_wil": "Kota Cilegon"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.73",
+        "nama_wil": "Kota Serang"
+    },
+    {
+        "kode_wil_prop": "36",
+        "nama_wil_prop": "Provinsi Banten",
+        "kode_wil": "36.74",
+        "nama_wil": "Kota Tangerang Selatan"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51",
+        "nama_wil": "Provinsi Bali"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.01",
+        "nama_wil": "Kab. Jembrana"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.02",
+        "nama_wil": "Kab. Tabanan"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.03",
+        "nama_wil": "Kab. Badung"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.04",
+        "nama_wil": "Kab. Gianyar"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.05",
+        "nama_wil": "Kab. Klungkung"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.06",
+        "nama_wil": "Kab. Bangli"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.07",
+        "nama_wil": "Kab. Karangasem"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.08",
+        "nama_wil": "Kab. Buleleng"
+    },
+    {
+        "kode_wil_prop": "51",
+        "nama_wil_prop": "Provinsi Bali",
+        "kode_wil": "51.71",
+        "nama_wil": "Kota Denpasar"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52",
+        "nama_wil": "Provinsi Nusa Tenggara Barat"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.01",
+        "nama_wil": "Kab. Lombok Barat"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.02",
+        "nama_wil": "Kab. Lombok Tengah"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.03",
+        "nama_wil": "Kab. Lombok Timur"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.04",
+        "nama_wil": "Kab. Sumbawa"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.05",
+        "nama_wil": "Kab. Dompu"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.06",
+        "nama_wil": "Kab. Bima"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.07",
+        "nama_wil": "Kab. Sumbawa Barat"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.08",
+        "nama_wil": "Kab. Lombok Utara"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.71",
+        "nama_wil": "Kota Mataram"
+    },
+    {
+        "kode_wil_prop": "52",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Barat",
+        "kode_wil": "52.72",
+        "nama_wil": "Kota Bima"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53",
+        "nama_wil": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.01",
+        "nama_wil": "Kab. Kupang"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.02",
+        "nama_wil": "Kab. Timor Tengah Selatan"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.03",
+        "nama_wil": "Kab. Timor Tengah Utara"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.04",
+        "nama_wil": "Kab. Belu"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.05",
+        "nama_wil": "Kab. Alor"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.06",
+        "nama_wil": "Kab. Flores Timur"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.07",
+        "nama_wil": "Kab. Sikka"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.08",
+        "nama_wil": "Kab. Ende"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.09",
+        "nama_wil": "Kab. Ngada"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.10",
+        "nama_wil": "Kab. Manggarai"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.11",
+        "nama_wil": "Kab. Sumba Timur"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.12",
+        "nama_wil": "Kab. Sumba Barat"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.13",
+        "nama_wil": "Kab. Lembata"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.14",
+        "nama_wil": "Kab. Rote Ndao"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.15",
+        "nama_wil": "Kab. Manggarai Barat"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.16",
+        "nama_wil": "Kab. Nagekeo"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.17",
+        "nama_wil": "Kab. Sumba Tengah"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.18",
+        "nama_wil": "Kab. Sumba Barat Daya"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.19",
+        "nama_wil": "Kab. Manggarai Timur"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.20",
+        "nama_wil": "Kab. Sabu Raijua"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.21",
+        "nama_wil": "Kab. Malaka"
+    },
+    {
+        "kode_wil_prop": "53",
+        "nama_wil_prop": "Provinsi Nusa Tenggara Timur",
+        "kode_wil": "53.71",
+        "nama_wil": "Kota Kupang"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61",
+        "nama_wil": "Provinsi Kalimantan Barat"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.01",
+        "nama_wil": "Kab. Sambas"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.02",
+        "nama_wil": "Kab. Mempawah"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.03",
+        "nama_wil": "Kab. Sanggau"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.04",
+        "nama_wil": "Kab. Ketapang"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.05",
+        "nama_wil": "Kab. Sintang"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.06",
+        "nama_wil": "Kab. Kapuas Hulu"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.07",
+        "nama_wil": "Kab. Bengkayang"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.08",
+        "nama_wil": "Kab. Landak"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.09",
+        "nama_wil": "Kab. Sekadau"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.10",
+        "nama_wil": "Kab. Melawi"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.11",
+        "nama_wil": "Kab. Kayong Utara"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.12",
+        "nama_wil": "Kab. Kubu Raya"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.71",
+        "nama_wil": "Kota Pontianak"
+    },
+    {
+        "kode_wil_prop": "61",
+        "nama_wil_prop": "Provinsi Kalimantan Barat",
+        "kode_wil": "61.72",
+        "nama_wil": "Kota Singkawang"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62",
+        "nama_wil": "Provinsi Kalimantan Tengah"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.01",
+        "nama_wil": "Kab. Kotawaringin Barat"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.02",
+        "nama_wil": "Kab. Kotawaringin Timur"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.03",
+        "nama_wil": "Kab. Kapuas"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.04",
+        "nama_wil": "Kab. Barito Selatan"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.05",
+        "nama_wil": "Kab. Barito Utara"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.06",
+        "nama_wil": "Kab. Katingan"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.07",
+        "nama_wil": "Kab. Seruyan"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.08",
+        "nama_wil": "Kab. Sukamara"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.09",
+        "nama_wil": "Kab. Lamandau"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.10",
+        "nama_wil": "Kab. Gunung Mas"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.11",
+        "nama_wil": "Kab. Pulang Pisau"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.12",
+        "nama_wil": "Kab. Murung Raya"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.13",
+        "nama_wil": "Kab. Barito Timur"
+    },
+    {
+        "kode_wil_prop": "62",
+        "nama_wil_prop": "Provinsi Kalimantan Tengah",
+        "kode_wil": "62.71",
+        "nama_wil": "Kota Palangkaraya"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63",
+        "nama_wil": "Provinsi Kalimantan Selatan"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.01",
+        "nama_wil": "Kab. Tanah Laut"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.02",
+        "nama_wil": "Kab. Kotabaru"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.03",
+        "nama_wil": "Kab. Banjar"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.04",
+        "nama_wil": "Kab. Barito Kuala"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.05",
+        "nama_wil": "Kab. Tapin"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.06",
+        "nama_wil": "Kab. Hulu Sungai Selatan"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.07",
+        "nama_wil": "Kab. Hulu Sungai Tengah"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.08",
+        "nama_wil": "Kab. Hulu Sungai Utara"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.09",
+        "nama_wil": "Kab. Tabalong"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.10",
+        "nama_wil": "Kab. Tanah Bumbu"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.11",
+        "nama_wil": "Kab. Balangan"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.71",
+        "nama_wil": "Kota Banjarmasin"
+    },
+    {
+        "kode_wil_prop": "63",
+        "nama_wil_prop": "Provinsi Kalimantan Selatan",
+        "kode_wil": "63.72",
+        "nama_wil": "Kota Banjarbaru"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64",
+        "nama_wil": "Provinsi Kalimantan Timur"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.01",
+        "nama_wil": "Kab. Paser"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.02",
+        "nama_wil": "Kab. Kutai Kartanegara"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.03",
+        "nama_wil": "Kab. Berau"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.07",
+        "nama_wil": "Kab. Kutai Barat"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.08",
+        "nama_wil": "Kab. Kutai Timur"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.09",
+        "nama_wil": "Kab. Penajam Paser Utara"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.11",
+        "nama_wil": "Kab. Mahakam Ulu"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.71",
+        "nama_wil": "Kota Balikpapan"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.72",
+        "nama_wil": "Kota Samarinda"
+    },
+    {
+        "kode_wil_prop": "64",
+        "nama_wil_prop": "Provinsi Kalimantan Timur",
+        "kode_wil": "64.74",
+        "nama_wil": "Kota Bontang"
+    },
+    {
+        "kode_wil_prop": "65",
+        "nama_wil_prop": "Provinsi Kalimantan Utara",
+        "kode_wil": "65",
+        "nama_wil": "Provinsi Kalimantan Utara"
+    },
+    {
+        "kode_wil_prop": "65",
+        "nama_wil_prop": "Provinsi Kalimantan Utara",
+        "kode_wil": "65.01",
+        "nama_wil": "Kab. Bulungan"
+    },
+    {
+        "kode_wil_prop": "65",
+        "nama_wil_prop": "Provinsi Kalimantan Utara",
+        "kode_wil": "65.02",
+        "nama_wil": "Kab. Malinau"
+    },
+    {
+        "kode_wil_prop": "65",
+        "nama_wil_prop": "Provinsi Kalimantan Utara",
+        "kode_wil": "65.03",
+        "nama_wil": "Kab. Nunukan"
+    },
+    {
+        "kode_wil_prop": "65",
+        "nama_wil_prop": "Provinsi Kalimantan Utara",
+        "kode_wil": "65.04",
+        "nama_wil": "Kab. Tana Tidung"
+    },
+    {
+        "kode_wil_prop": "65",
+        "nama_wil_prop": "Provinsi Kalimantan Utara",
+        "kode_wil": "65.71",
+        "nama_wil": "Kota Tarakan"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71",
+        "nama_wil": "Provinsi Sulawesi Utara"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.01",
+        "nama_wil": "Kab. Bolaang Mongondow"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.02",
+        "nama_wil": "Kab. Minahasa"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.03",
+        "nama_wil": "Kab. Kepulauan Sangihe"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.04",
+        "nama_wil": "Kab. Kepulauan Talaud"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.05",
+        "nama_wil": "Kab. Minahasa Selatan"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.06",
+        "nama_wil": "Kab. Minahasa Utara"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.07",
+        "nama_wil": "Kab. Minahasa Tenggara"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.08",
+        "nama_wil": "Kab. Bolaang Mongondow Utara"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.09",
+        "nama_wil": "Kab. Kep. Siau Tagulandang Biaro"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.10",
+        "nama_wil": "Kab. Bolaang Mongondow Timur"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.11",
+        "nama_wil": "Kab. Bolaang Mongondow Selatan"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.71",
+        "nama_wil": "Kota Manado"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.72",
+        "nama_wil": "Kota Bitung"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.73",
+        "nama_wil": "Kota Tomohon"
+    },
+    {
+        "kode_wil_prop": "71",
+        "nama_wil_prop": "Provinsi Sulawesi Utara",
+        "kode_wil": "71.74",
+        "nama_wil": "Kota Kotamobagu"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72",
+        "nama_wil": "Provinsi Sulawesi Tengah"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.01",
+        "nama_wil": "Kab. Banggai"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.02",
+        "nama_wil": "Kab. Poso"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.03",
+        "nama_wil": "Kab. Donggala"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.04",
+        "nama_wil": "Kab. Toli Toli"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.05",
+        "nama_wil": "Kab. Buol"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.06",
+        "nama_wil": "Kab. Morowali"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.07",
+        "nama_wil": "Kab. Banggai Kepulauan"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.08",
+        "nama_wil": "Kab. Parigi Moutong"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.09",
+        "nama_wil": "Kab. Tojo Una Una"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.10",
+        "nama_wil": "Kab. Sigi"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.11",
+        "nama_wil": "Kab. Banggai Laut"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.12",
+        "nama_wil": "Kab. Morowali Utara"
+    },
+    {
+        "kode_wil_prop": "72",
+        "nama_wil_prop": "Provinsi Sulawesi Tengah",
+        "kode_wil": "72.71",
+        "nama_wil": "Kota Palu"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73",
+        "nama_wil": "Provinsi Sulawesi Selatan"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.01",
+        "nama_wil": "Kab. Kepulauan Selayar"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.02",
+        "nama_wil": "Kab. Bulukumba"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.03",
+        "nama_wil": "Kab. Bantaeng"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.04",
+        "nama_wil": "Kab. Jeneponto"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.05",
+        "nama_wil": "Kab. Takalar"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.06",
+        "nama_wil": "Kab. Gowa"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.07",
+        "nama_wil": "Kab. Sinjai"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.08",
+        "nama_wil": "Kab. Bone"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.09",
+        "nama_wil": "Kab. Maros"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.10",
+        "nama_wil": "Kab. Pangkajene Kepulauan"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.11",
+        "nama_wil": "Kab. Barru"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.12",
+        "nama_wil": "Kab. Soppeng"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.13",
+        "nama_wil": "Kab. Wajo"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.14",
+        "nama_wil": "Kab. Sidenreng Rappang"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.15",
+        "nama_wil": "Kab. Pinrang"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.16",
+        "nama_wil": "Kab. Enrekang"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.17",
+        "nama_wil": "Kab. Luwu"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.18",
+        "nama_wil": "Kab. Tana Toraja"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.22",
+        "nama_wil": "Kab. Luwu Utara"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.24",
+        "nama_wil": "Kab. Luwu Timur"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.26",
+        "nama_wil": "Kab. Toraja Utara"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.71",
+        "nama_wil": "Kota Makassar"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.72",
+        "nama_wil": "Kota Pare Pare"
+    },
+    {
+        "kode_wil_prop": "73",
+        "nama_wil_prop": "Provinsi Sulawesi Selatan",
+        "kode_wil": "73.73",
+        "nama_wil": "Kota Palopo"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74",
+        "nama_wil": "Provinsi Sulawesi Tenggara"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.01",
+        "nama_wil": "Kab. Kolaka"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.02",
+        "nama_wil": "Kab. Konawe"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.03",
+        "nama_wil": "Kab. Muna"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.04",
+        "nama_wil": "Kab. Buton"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.05",
+        "nama_wil": "Kab. Konawe Selatan"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.06",
+        "nama_wil": "Kab. Bombana"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.07",
+        "nama_wil": "Kab. Wakatobi"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.08",
+        "nama_wil": "Kab. Kolaka Utara"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.09",
+        "nama_wil": "Kab. Konawe Utara"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.10",
+        "nama_wil": "Kab. Buton Utara"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.11",
+        "nama_wil": "Kab. Kolaka Timur"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.12",
+        "nama_wil": "Kab. Konawe Kepulauan"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.13",
+        "nama_wil": "Kab. Muna Barat"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.14",
+        "nama_wil": "Kab. Buton Tengah"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.15",
+        "nama_wil": "Kab. Buton Selatan"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.71",
+        "nama_wil": "Kota Kendari"
+    },
+    {
+        "kode_wil_prop": "74",
+        "nama_wil_prop": "Provinsi Sulawesi Tenggara",
+        "kode_wil": "74.72",
+        "nama_wil": "Kota Bau Bau"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75",
+        "nama_wil": "Provinsi Gorontalo"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75.01",
+        "nama_wil": "Kab. Gorontalo"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75.02",
+        "nama_wil": "Kab. Boalemo"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75.03",
+        "nama_wil": "Kab. Bone Bolango"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75.04",
+        "nama_wil": "Kab. Pohuwato"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75.05",
+        "nama_wil": "Kab. Gorontalo Utara"
+    },
+    {
+        "kode_wil_prop": "75",
+        "nama_wil_prop": "Provinsi Gorontalo",
+        "kode_wil": "75.71",
+        "nama_wil": "Kota Gorontalo"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76",
+        "nama_wil": "Provinsi Sulawesi Barat"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76.01",
+        "nama_wil": "Kab. Pasangkayu"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76.02",
+        "nama_wil": "Kab. Mamuju"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76.03",
+        "nama_wil": "Kab. Mamasa"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76.04",
+        "nama_wil": "Kab. Polewali Mandar"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76.05",
+        "nama_wil": "Kab. Majene"
+    },
+    {
+        "kode_wil_prop": "76",
+        "nama_wil_prop": "Provinsi Sulawesi Barat",
+        "kode_wil": "76.06",
+        "nama_wil": "Kab. Mamuju Tengah"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81",
+        "nama_wil": "Provinsi Maluku"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.01",
+        "nama_wil": "Kab. Maluku Tengah"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.02",
+        "nama_wil": "Kab. Maluku Tenggara"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.03",
+        "nama_wil": "Kab. Kepulauan Tanimbar"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.04",
+        "nama_wil": "Kab. Buru"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.05",
+        "nama_wil": "Kab. Seram Bagian Timur"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.06",
+        "nama_wil": "Kab. Seram Bagian Barat"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.07",
+        "nama_wil": "Kab. Kepulauan Aru"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.08",
+        "nama_wil": "Kab. Maluku Barat Daya"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.09",
+        "nama_wil": "Kab. Buru Selatan"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.71",
+        "nama_wil": "Kota Ambon"
+    },
+    {
+        "kode_wil_prop": "81",
+        "nama_wil_prop": "Provinsi Maluku",
+        "kode_wil": "81.72",
+        "nama_wil": "Kota Tual"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82",
+        "nama_wil": "Provinsi Maluku Utara"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.01",
+        "nama_wil": "Kab. Halmahera Barat"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.02",
+        "nama_wil": "Kab. Halmahera Tengah"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.03",
+        "nama_wil": "Kab. Halmahera Utara"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.04",
+        "nama_wil": "Kab. Halmahera Selatan"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.05",
+        "nama_wil": "Kab. Kepulauan Sula"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.06",
+        "nama_wil": "Kab. Halmahera Timur"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.07",
+        "nama_wil": "Kab. Pulau Morotai"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.08",
+        "nama_wil": "Kab. Pulau Taliabu"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.71",
+        "nama_wil": "Kota Ternate"
+    },
+    {
+        "kode_wil_prop": "82",
+        "nama_wil_prop": "Provinsi Maluku Utara",
+        "kode_wil": "82.72",
+        "nama_wil": "Kota Tidore Kepulauan"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91",
+        "nama_wil": "Provinsi Papua"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.01",
+        "nama_wil": "Kab. Merauke"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.02",
+        "nama_wil": "Kab. Jayawijaya"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.03",
+        "nama_wil": "Kab. Jayapura"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.04",
+        "nama_wil": "Kab. Nabire"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.05",
+        "nama_wil": "Kab. Kepulauan Yapen"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.06",
+        "nama_wil": "Kab. Biak Numfor"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.07",
+        "nama_wil": "Kab. Puncak Jaya"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.08",
+        "nama_wil": "Kab. Paniai"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.09",
+        "nama_wil": "Kab. Mimika"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.10",
+        "nama_wil": "Kab. Sarmi"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.11",
+        "nama_wil": "Kab. Keerom"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.12",
+        "nama_wil": "Kab. Pegunungan Bintang"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.13",
+        "nama_wil": "Kab. Yahukimo"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.14",
+        "nama_wil": "Kab. Tolikara"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.15",
+        "nama_wil": "Kab. Waropen"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.16",
+        "nama_wil": "Kab. Boven Digoel"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.17",
+        "nama_wil": "Kab. Mappi"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.18",
+        "nama_wil": "Kab. Asmat"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.19",
+        "nama_wil": "Kab. Supiori"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.20",
+        "nama_wil": "Kab. Mamberamo Raya"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.21",
+        "nama_wil": "Kab. Mamberamo Tengah"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.22",
+        "nama_wil": "Kab. Yalimo"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.23",
+        "nama_wil": "Kab. Lanny Jaya"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.24",
+        "nama_wil": "Kab. Nduga"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.25",
+        "nama_wil": "Kab. Puncak"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.26",
+        "nama_wil": "Kab. Dogiyai"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.27",
+        "nama_wil": "Kab. Intan Jaya"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.28",
+        "nama_wil": "Kab. Deiyai"
+    },
+    {
+        "kode_wil_prop": "91",
+        "nama_wil_prop": "Provinsi Papua",
+        "kode_wil": "91.71",
+        "nama_wil": "Kota Jayapura"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92",
+        "nama_wil": "Provinsi Papua Barat"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.01",
+        "nama_wil": "Kab. Sorong"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.02",
+        "nama_wil": "Kab. Manokwari"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.03",
+        "nama_wil": "Kab. Fak Fak"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.04",
+        "nama_wil": "Kab. Sorong Selatan"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.05",
+        "nama_wil": "Kab. Raja Ampat"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.06",
+        "nama_wil": "Kab. Teluk Bintuni"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.07",
+        "nama_wil": "Kab. Teluk Wondama"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.08",
+        "nama_wil": "Kab. Kaimana"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.09",
+        "nama_wil": "Kab. Tambrauw"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.10",
+        "nama_wil": "Kab. Maybrat"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.11",
+        "nama_wil": "Kab. Manokwari Selatan"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.12",
+        "nama_wil": "Kab. Pegunungan Arfak"
+    },
+    {
+        "kode_wil_prop": "92",
+        "nama_wil_prop": "Provinsi Papua Barat",
+        "kode_wil": "92.71",
+        "nama_wil": "Kota Sorong"
+    }
+]

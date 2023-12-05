@@ -12,13 +12,13 @@ import MobileMenu from "../components/partials/sidebar/MobileMenu";
 import useMobileMenu from "@/hooks/useMobileMenu";
 import MobileFooter from "@/components/partials/footer/MobileFooter";
 import { motion } from "framer-motion";
-import { getProfile } from "@/api/settings/profile";
+// import { getProfile } from "@/api/settings/profile";
 import useProfile from "@/hooks/useProfile";
 import { getCookie } from "@/utils/cookie";
 import Rendering from "@/components/main/Rendering";
 import useDarkmode from "@/hooks/useDarkMode";
 import { useLocation, useNavigate } from 'react-router-dom';
-import { getDetailDaerah } from "@/api/settings/daerah";
+// import { getDetailDaerah } from "@/api/settings/daerah";
 import { randomString } from "@/utils/stringConverter";
 
 type Props = {
@@ -102,41 +102,41 @@ const Layout = ({ children }: Props) => {
 			}
 		}
 
-		getProfile().then(function (res) {
-			if (res.data.code !== 0) {
-				const response = res.data
-				mockUser.id_user = response.id_user
-				mockUser.id_daerah = response.id_daerah
-				mockUser.nip_user = response.nip_user
-				mockUser.nama_user = response.nama_user
-				mockUser.id_pang_gol = response.id_pang_gol
-				mockUser.nik_user = response.nik_user
-				mockUser.npwp_user = response.npwp_user
-				mockUser.alamat = response.alamat
-				mockUser.lahir_user = response.lahir_user
-			}
+		// getProfile().then(function (res) {
+		// 	if (res.data.code !== 0) {
+		// 		const response = res.data
+		// 		mockUser.id_user = response.id_user
+		// 		mockUser.id_daerah = response.id_daerah
+		// 		mockUser.nip_user = response.nip_user
+		// 		mockUser.nama_user = response.nama_user
+		// 		mockUser.id_pang_gol = response.id_pang_gol
+		// 		mockUser.nik_user = response.nik_user
+		// 		mockUser.npwp_user = response.npwp_user
+		// 		mockUser.alamat = response.alamat
+		// 		mockUser.lahir_user = response.lahir_user
+		// 	}
 
-			handleGetDetailDaerah(mockUser)
+		// 	handleGetDetailDaerah(mockUser)
 
-			// setProfile(mockUser)
-		}).catch(function (error) {
-			// setProfile(mockUser)
-			handleGetDetailDaerah(mockUser)
-		})
+		// 	// setProfile(mockUser)
+		// }).catch(function (error) {
+		// 	// setProfile(mockUser)
+		// 	handleGetDetailDaerah(mockUser)
+		// })
 	};
 
 	const handleGetDetailDaerah = (profile: ProfileResponseType) => {
-		getDetailDaerah(profile.id_daerah).then(function (res) {
-			const responseDaerah = res.data
-			profile.kode_kab = responseDaerah.kode_kab
-			profile.kode_prop = responseDaerah.kode_prop
-			profile.nama_daerah = responseDaerah.nama_daerah
-			setProfile(profile)
-		}).catch(function (error) {
-			setProfile(profile)
-		}).finally(function () {
+		// getDetailDaerah(profile.id_daerah).then(function (res) {
+		// 	const responseDaerah = res.data
+		// 	profile.kode_kab = responseDaerah.kode_kab
+		// 	profile.kode_prop = responseDaerah.kode_prop
+		// 	profile.nama_daerah = responseDaerah.nama_daerah
+		// 	setProfile(profile)
+		// }).catch(function (error) {
+		// 	setProfile(profile)
+		// }).finally(function () {
 
-		})
+		// })
 	};
 
 	return (
